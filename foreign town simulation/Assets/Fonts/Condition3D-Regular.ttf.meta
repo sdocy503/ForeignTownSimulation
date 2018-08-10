@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: eadd6a257b13a684b826c501bc668aba
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Condition 3D
+  fontNames:
+  - Condition 3D
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cea0715f43317fe488537b6cb4628128, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
